@@ -1,0 +1,11 @@
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Charger\KyOS Charger\bin\Alpha\KyOS Charger.exe.config
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Charger\KyOS Charger\bin\Alpha\KyOS Charger.exe
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Charger\KyOS Charger\bin\Alpha\KyOS Charger.pdb
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Charger\KyOS Charger\bin\Alpha\KyOS Charger.xml
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Charger\KyOS Charger\obj\Alpha\KyOS Charger.vbprojResolveAssemblyReference.cache
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Charger\KyOS Charger\obj\Alpha\KyOS_Charger.Form1.resources
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Charger\KyOS Charger\obj\Alpha\KyOS_Charger.Resources.resources
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Charger\KyOS Charger\obj\Alpha\KyOS Charger.vbproj.GenerateResource.Cache
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Charger\KyOS Charger\obj\Alpha\KyOS Charger.exe
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Charger\KyOS Charger\obj\Alpha\KyOS Charger.xml
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Charger\KyOS Charger\obj\Alpha\KyOS Charger.pdb

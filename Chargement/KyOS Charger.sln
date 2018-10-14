@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "KyOS Charger", "KyOS Charger\KyOS Charger.vbproj", "{DAE49E5E-7E47-4248-BA31-882614340B96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Alpha|Any CPU = Alpha|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAE49E5E-7E47-4248-BA31-882614340B96}.Alpha|Any CPU.ActiveCfg = Alpha|Any CPU
+		{DAE49E5E-7E47-4248-BA31-882614340B96}.Alpha|Any CPU.Build.0 = Alpha|Any CPU
+		{DAE49E5E-7E47-4248-BA31-882614340B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE49E5E-7E47-4248-BA31-882614340B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE49E5E-7E47-4248-BA31-882614340B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE49E5E-7E47-4248-BA31-882614340B96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
