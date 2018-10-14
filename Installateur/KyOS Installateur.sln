@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "KyOS Installateur", "KyOS Installateur\KyOS Installateur.vbproj", "{3B4E8E6B-674E-4E7E-AA59-8C5CF2E0F0F8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "KyOSI", "KyOS DLL\KyOSI.vbproj", "{9F634B0F-406B-42C6-8796-1FEBEC8C8B14}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "OSR", "OSR\OSR.vbproj", "{5F7516E1-11B8-471D-AEDB-6E6BB95D5913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B4E8E6B-674E-4E7E-AA59-8C5CF2E0F0F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4E8E6B-674E-4E7E-AA59-8C5CF2E0F0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4E8E6B-674E-4E7E-AA59-8C5CF2E0F0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4E8E6B-674E-4E7E-AA59-8C5CF2E0F0F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F634B0F-406B-42C6-8796-1FEBEC8C8B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F634B0F-406B-42C6-8796-1FEBEC8C8B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F634B0F-406B-42C6-8796-1FEBEC8C8B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F634B0F-406B-42C6-8796-1FEBEC8C8B14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F7516E1-11B8-471D-AEDB-6E6BB95D5913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F7516E1-11B8-471D-AEDB-6E6BB95D5913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F7516E1-11B8-471D-AEDB-6E6BB95D5913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F7516E1-11B8-471D-AEDB-6E6BB95D5913}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
