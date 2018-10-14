@@ -1,0 +1,18 @@
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Installateur\KyOS Installateur\bin\Debug\KyOS Installateur.exe.config
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Installateur\KyOS Installateur\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Installateur\KyOS Installateur\obj\Debug\KyOS Installateur.vbproj.ResolveComReference.cache
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Installateur\KyOS Installateur\bin\Debug\KyOS Installateur.exe
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Installateur\KyOS Installateur\bin\Debug\KyOS Installateur.pdb
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Installateur\KyOS Installateur\bin\Debug\KyOS Installateur.xml
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Installateur\KyOS Installateur\obj\Debug\KyOS Installateur.vbprojResolveAssemblyReference.cache
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Installateur\KyOS Installateur\obj\Debug\KyOS_Installateur.Form1.resources
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Installateur\KyOS Installateur\obj\Debug\KyOS_Installateur.Resources.resources
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Installateur\KyOS Installateur\obj\Debug\KyOS Installateur.vbproj.GenerateResource.Cache
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Installateur\KyOS Installateur\obj\Debug\KyOS Installateur.exe
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Installateur\KyOS Installateur\obj\Debug\KyOS Installateur.xml
+C:\Users\Kyneas\Documents\Visual Studio 2015\Projects\KyOS Installateur\KyOS Installateur\obj\Debug\KyOS Installateur.pdb
+C:\Users\Kyneas\documents\visual studio 2015\Projects\KyOS Installateur\KyOS Installateur\bin\Debug\OSR.dll
+C:\Users\Kyneas\documents\visual studio 2015\Projects\KyOS Installateur\KyOS Installateur\bin\Debug\OSR.pdb
+C:\Users\Kyneas\documents\visual studio 2015\Projects\KyOS Installateur\KyOS Installateur\bin\Debug\OSR.xml
+C:\Users\Kyneas\documents\visual studio 2015\Projects\KyOS Installateur\KyOS Installateur\obj\Debug\KyOS_Installateur.KyOST.resources
+C:\Users\Kyneas\documents\visual studio 2015\Projects\KyOS Installateur\KyOS Installateur\obj\Debug\KyOS_Installateur.Start.resources
