@@ -1,0 +1,5 @@
+Public Class Class1
+    Public Sub OSC()
+        MsgBox("Voulez-vous démarrer avec KyOS", vbYesNo + vbQuestion, "KyOS Installation")
+    End Sub
+End Class
